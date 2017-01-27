@@ -1,6 +1,8 @@
-# elm-template
+# [i think.](http://thisisaninteresting.space/)
 
-This is a simple static website template using [Elm](http://elm-lang.org). [Here is an example of this template](https://coffee-cup-elm-template.surge.sh/).
+Do you think?
+
+⑂ Forked from my [elm-template](https://github.com/coffee-cup/elm-template).
 
 ## Features 💥
 

@@ -46,7 +46,7 @@ toString r =
 
 mainTitle : String
 mainTitle =
-    "Title ✌️"
+    "i think."
 
 
 pageTitle : Sitemap -> String

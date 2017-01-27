@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css?family=Cardo');
+
+$sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+$serif: 'Cardo', serif;
+$mono: 'Courier New', monospace;
+
+body {
+    font-family: $serif;
+}
+
+
+h1,
+h2 {
+    font-family: $sans;
+    font-weight: bold;
+}
+
+h3,
+h4 {
+    font-family: $sans;
+    font-weight: normal;
+}
